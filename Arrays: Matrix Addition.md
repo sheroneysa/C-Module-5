@@ -64,3 +64,6 @@ Enter elements of Matrix A:
 1 2 3
 4 5 6
 Enter elements of Matrix B:
+
+## Result
+The above programme is implemented and executed.
